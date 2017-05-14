@@ -291,4 +291,4 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/al732row/proprietary/etc/media_codecs_mediatek_audio.xml:system/etc/media_codecs_mediatek_audio.xml \
     vendor/lenovo/al732row/proprietary/etc/media_codecs_mediatek_video.xml:system/etc/media_codecs_mediatek_video.xml \
     vendor/lenovo/al732row/proprietary/etc/media_codecs_performance.xml:system/etc/media_codecs_performance.xml \
-    vendor/doogee/x5pro/proprietary/lib/libClearMotionFW.so:system/lib/libClearMotionFW.so
+    vendor/lenovo/al732row/proprietary/lib/libClearMotionFW.so:system/lib/libClearMotionFW.so
