@@ -145,7 +145,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/al732row/proprietary/lib/libvcodec_utility.so:system/lib/libvcodec_utility.so \
     vendor/lenovo/al732row/proprietary/lib/libaed.so:system/lib/libaed.so \
     vendor/lenovo/al732row/proprietary/lib/mtk-rilmd2.so:system/lib/mtk-rilmd2.so \
-    vendor/lenovo/al732row/proprietary/lib/volte_imsm.so:system/lib/volte_imsm.so \
     vendor/lenovo/al732row/proprietary/lib/libcam3_hwnode.so:system/lib/libcam3_hwnode.so \
     vendor/lenovo/al732row/proprietary/lib/libMtkOmxApeDec.so:system/lib/libMtkOmxApeDec.so \
     vendor/lenovo/al732row/proprietary/lib/libem_lte_jni.so:system/lib/libem_lte_jni.so \
